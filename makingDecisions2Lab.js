@@ -182,7 +182,7 @@ switch (letterGrade) {
     console.log('The student is failing.');
     break;
   default:
-    console.log(`Not an eligible grade.`);
+    console.log('Not an eligible grade.');
 }
 
 ////////// PROBLEM 11 //////////
